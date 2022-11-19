@@ -7,14 +7,11 @@
   
     💻📚Interested in every area of technology, especially programming and databases
     
-  <div class="img-gif">
-  <img align="left" alt="jg-gif" width="180" src="https://media.giphy.com/media/gVnet5HmqG5xu/giphy.gif">
-  </div>
   
-  <div>
-  <a href="https://github.com/g4bindev">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=g4bindev&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bindev&layout=compact&langs_count=12&theme=aura"/>  
+  <div align="center">
+  <img alt="jg-gif" width="130" src="https://media.giphy.com/media/gVnet5HmqG5xu/giphy.gif">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=g4bindev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="g4bindev github stats" /> 
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bindev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />  
   </div>
     
   <div>
