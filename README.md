@@ -9,10 +9,10 @@
     
   
   <div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=g4bindev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="g4bindev github stats" /> 
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bindev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />  
+  <img height="136px" src="https://github-readme-stats.vercel.app/api?username=g4bindev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="g4bindev github stats" /> 
+  <img height="136px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bindev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />  
   
-  <img alt="jg-gif" width="140" src="https://media.giphy.com/media/gVnet5HmqG5xu/giphy.gif">
+  <img alt="jg-gif" width="136" src="https://media.giphy.com/media/gVnet5HmqG5xu/giphy.gif">
   </div>
    
    ##
